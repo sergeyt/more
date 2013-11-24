@@ -1,0 +1,24 @@
+{
+  "name": "node-more",
+  "version": "0.0.6",
+  "description": "Terminal pager for nodejs.",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sergeyt/more.git"
+  },
+  "keywords": [
+    "more",
+    "pager"
+  ],
+  "author": "Sergey Todyshev <stodyshev@gmail.com>",
+  "contributors": [
+    "Sergey Todyshev <stodyshev@gmail.com>"
+  ],
+  "dependencies": {
+    "waitkey": "0.0.4",
+    "q": "~0.9.7"
+  },
+  "devDependencies": {}
+}
