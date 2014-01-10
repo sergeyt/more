@@ -1,5 +1,4 @@
-more
-====
+# more [![Deps Status](https://david-dm.org/sergeyt/node-more.png)](https://david-dm.org/sergeyt/node-more)
 
 [![NPM][1]](https://nodei.co/npm/node-more/)
 
