@@ -1,4 +1,4 @@
-[![Deps Status](https://david-dm.org/sergeyt/node-more.png)](https://david-dm.org/sergeyt/node-more)
+[![Deps Status](https://david-dm.org/sergeyt/more.png)](https://david-dm.org/sergeyt/more)
 
 # more
 
