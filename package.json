@@ -18,7 +18,6 @@
   ],
   "dependencies": {
     "waitkey": "0.0.4",
-    "q": "~1.0.0"
-  },
-  "devDependencies": {}
+    "q": "~2.0"
+  }
 }

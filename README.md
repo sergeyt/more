@@ -1,6 +1,8 @@
-# more [![Deps Status](https://david-dm.org/sergeyt/node-more.png)](https://david-dm.org/sergeyt/node-more)
+[![Deps Status](https://david-dm.org/sergeyt/node-more.png)](https://david-dm.org/sergeyt/node-more)
 
-[![NPM][1]](https://nodei.co/npm/node-more/)
+# more
+
+[![NPM](https://nodei.co/npm/node-more.png?downloads=true&stars=true)](https://nodei.co/npm/node-more/)
 
 Terminal pager of long output for nodejs
 
@@ -26,5 +28,3 @@ print(Array(100).join('long text\n')).done(function(){
     console.log('end');
 });
 ```
-
-[1]: https://nodei.co/npm/node-more.png?downloads=true&stars=true
