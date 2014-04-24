@@ -1,8 +1,9 @@
 [![Deps Status](https://david-dm.org/sergeyt/more.png)](https://david-dm.org/sergeyt/more)
-
-# more
+[![devDependency Status](https://david-dm.org/sergeyt/more/dev-status.svg)](https://david-dm.org/sergeyt/more#info=devDependencies)
 
 [![NPM](https://nodei.co/npm/node-more.png?downloads=true&stars=true)](https://nodei.co/npm/node-more/)
+
+# more
 
 Terminal pager of long output for nodejs
 
